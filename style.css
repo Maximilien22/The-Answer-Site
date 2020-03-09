@@ -1,6 +1,8 @@
 h1{
 	color : red;
+	font-family: "Courier New", Times, serif;
 	font-size: 60px;
+
 }
 h2{
 	color : blue;
@@ -12,11 +14,17 @@ body{
 float:left;
 }
 
+balise_center{
+	text-align: center;
+	align-content: center;
+	align-items: center;
+}
+
 #carte
 
 {
 
-width: 800px;
+width: 600px;
 
 margin:0 auto;
 
