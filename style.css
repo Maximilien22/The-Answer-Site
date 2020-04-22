@@ -1,14 +1,19 @@
 h1{
-	color : red;
-	font-family: "Courier New", Times, serif;
+	color : white;
+	font-family: "Arial", Times, serif;
 	font-size: 60px;
 
 }
 h2{
-	color : blue;
+	color : white;
+
+}
+h3{
+	color : rgb(51,51,51);
+
 }
 body{
-	background-color: white;
+	background-color: rgb(166, 143, 197);
 }
 .flotte {
 
@@ -20,6 +25,12 @@ balise_center{
 	align-content: center;
 	align-items: center;
 }
+#small_carte
+{
+	width: 300px;
+	margin:0 auto;
+	background-color: rgb(166, 143, 197);
+}
 
 #carte
 
@@ -29,7 +40,7 @@ width: 600px;
 
 margin:0 auto;
 
-background-color: white;
+background-color:  rgb(166, 143, 197);
 
 
 
